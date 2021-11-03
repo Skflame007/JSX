@@ -1,0 +1,25 @@
+.title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.red {
+  color: rgb(0, 119, 255);
+  font-family: fantasy;
+}
+.image {
+  width: 250;
+  height: 350px;
+  margin-left: 300px;
+}
+
+.imag {
+  padding-top: 5%;
+  width: 250;
+  height: 350px;
+  margin-left: 500px;
+  padding-bottom: 3%;
+}
+.myvid {
+  margin-left: 530px;
+}
